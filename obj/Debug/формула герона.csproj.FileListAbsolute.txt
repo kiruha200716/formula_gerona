@@ -1,0 +1,7 @@
+C:\Users\Кирилл\Desktop\дз с кодом\формула герона\bin\Debug\формула герона.exe.config
+C:\Users\Кирилл\Desktop\дз с кодом\формула герона\bin\Debug\формула герона.exe
+C:\Users\Кирилл\Desktop\дз с кодом\формула герона\bin\Debug\формула герона.pdb
+C:\Users\Кирилл\Desktop\дз с кодом\формула герона\obj\Debug\формула герона.csproj.AssemblyReference.cache
+C:\Users\Кирилл\Desktop\дз с кодом\формула герона\obj\Debug\формула герона.csproj.CoreCompileInputs.cache
+C:\Users\Кирилл\Desktop\дз с кодом\формула герона\obj\Debug\формула герона.exe
+C:\Users\Кирилл\Desktop\дз с кодом\формула герона\obj\Debug\формула герона.pdb
